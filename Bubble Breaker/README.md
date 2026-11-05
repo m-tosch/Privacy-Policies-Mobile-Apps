@@ -1,64 +1,87 @@
-## Privacy Policy
+# Privacy Policy for Bubble Breaker
 
-mtosch built the Bubble Breaker app as an Ad Supported app. This SERVICE is provided by mtosch at no cost and is intended for use as is.
+_Last updated: November 5, 2026_
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This privacy policy explains which personal data is processed when you use the Android game **Bubble Breaker** ("the game"), why, and what rights you have. It applies to the version of the game distributed through Google Play.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## 1. Who is responsible
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Bubble Breaker unless otherwise defined in this Privacy Policy.
+The controller under the EU General Data Protection Regulation (GDPR) is:
 
-**Information Collection and Use**
+Maximilian Tosch  
+Gartenweg 10  
+37120 Bovenden  
+Germany  
+Email: lyrondev@yahoo.com
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Username, Highscore. The information that I request will be retained on your device and is not collected by me in any way.
+## 2. Overview
 
-The app does use third party services that may collect information used to identify you.
+The game shows ads (Google AdMob), offers an optional sign-in to Google Play Games (leaderboards, achievements, cloud save of your statistics) and an optional one-time purchase (Premium) through Google Play.
 
-Link to privacy policy of third party service providers used by the app
+I do not run any servers of my own for the game, I never receive your payment details, and I do not sell your data.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+## 3. Data stored on your device
 
-**Log Data**
+The game stores your best scores, your settings, your lifetime statistics and a running game (so you can continue it later) on your device. This data stays on your device and is not sent to me. It is deleted when you uninstall the game or clear its data in Android's settings.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## 4. Advertising
 
-**Cookies**
+The game shows ads provided by **Google AdMob** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland). It shows a banner. To deliver, measure and protect ads, AdMob processes data such as your device's advertising ID, IP address, device and app information, and your interactions with ads.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**Consent:** in the European Economic Area, the United Kingdom and Switzerland, the game shows Google's consent form (Google User Messaging Platform) before any ad is requested. You choose whether ads may be personalised. Without consent, AdMob only shows non-personalised or limited ads. In US states with privacy laws, you can opt out of the sale or sharing of your data for personalised ads. You can change your choice at any time in the game under **Settings → PRIVACY OPTIONS**, and you can reset or delete your advertising ID in Android's settings.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+More information: [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites) and [AdMob and privacy](https://support.google.com/admob/answer/6128543).
 
-**Service Providers**
+## 5. Google Play Games
 
-I may employ third-party companies and individuals due to the following reasons:
+If you sign in to **Google Play Games** (optional), Google provides the game with your Play Games player ID and gamer name. The game uses Play Games for:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+- **leaderboards** of your best scores in each game mode;
+- **achievements**;
+- a **cloud save** (Google Play Games Saved Games, stored in a hidden app folder of your Google Drive) of your lifetime statistics, so they are kept after reinstalling the game or on another device. After you sign in, your best scores on this device are also raised to your scores on the leaderboards.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Your gamer name, avatar and scores can be visible to other players, depending on your Play Games profile settings. Google's privacy policy applies: [policies.google.com/privacy](https://policies.google.com/privacy).
 
-**Security**
+## 6. In-app purchase
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Premium (no ads and extra options) is a one-time purchase that is sold through **Google Play Billing**. Google processes the payment; I never see your payment details. Google provides me with an order record (for example order number, product, date, price and country) and the game checks with Google Play whether you own a purchase. Google Play's terms and privacy policy apply.
 
-**Links to Other Sites**
+## 7. Google Play
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The game is distributed by Google Play, which may check that the installed copy was obtained from Google Play (licence check). Google Play's own privacy policy applies to the store and to installing and updating the game.
 
-**Children’s Privacy**
+## 8. Contacting me
 
-These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+If you contact me by email, I use your email address and your message only to answer you (Art. 6(1)(b) or (f) GDPR). I delete them once they are no longer needed, unless the law requires me to keep them.
 
-**Changes to This Privacy Policy**
+## 9. Legal bases
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+- **Your consent** (Art. 6(1)(a) GDPR, and § 25(1) TDDDG for access to your device): personalised advertising and the storage of and access to information on your device for advertising purposes.
+- **Performance of a contract** (Art. 6(1)(b) GDPR): providing the game and the features you choose to use (Google Play Games, cloud save, in-app purchases).
+- **Legitimate interests** (Art. 6(1)(f) GDPR): showing non-personalised advertising to fund the game, and protecting the game and the ad network against fraud and abuse.
 
-**Contact Us**
+## 10. Transfers outside the EU
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+The services named above are provided by Google Ireland Limited, which may transfer data to Google LLC in the United States. Google LLC is certified under the EU-U.S. Data Privacy Framework, on the basis of the European Commission's adequacy decision; Google also uses the EU Standard Contractual Clauses.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+## 11. How long data is kept
+
+- Data on your device: until you uninstall the game or clear its data.
+- Your cloud save: until you delete it, or the game's data, in your Google Play Games settings.
+- Data processed by Google: according to Google's retention policies ([policies.google.com/privacy](https://policies.google.com/privacy)).
+
+## 12. Your rights
+
+You have the right to access your personal data (Art. 15 GDPR), to rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20) and to object to processing based on legitimate interests (Art. 21). You can withdraw your consent at any time with effect for the future, as described in the advertising section above (Art. 7(3)).
+
+Because I do not store any data on my own servers, most requests concern data held by Google; you can view and delete it in your Google Account (myaccount.google.com) and in your Google Play Games settings. Contact me with any request and I will help.
+
+You also have the right to lodge a complaint with a data protection supervisory authority, in particular in your country of residence (Art. 77 GDPR). The authority responsible for me is the State Commissioner for Data Protection of Lower Saxony (LfD Niedersachsen), Prinzenstraße 5, 30159 Hannover, Germany ([lfd.niedersachsen.de](https://www.lfd.niedersachsen.de)).
+
+## 13. Children
+
+The game is not directed at children under 13, and I do not knowingly collect personal data of children under 13. If you believe a child has provided personal data through the game, please contact me.
+
+## 14. Changes to this policy
+
+I may update this policy when the game or the law changes. The current version is always available at this address, with the date of the last update at the top.

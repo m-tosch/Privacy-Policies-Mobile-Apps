@@ -7,3 +7,5 @@ This repository holds privacy policy agreements for the following mobile Apps
 [Mini Tanks](https://play.google.com/store/apps/details?id=com.lyrondev.minitanks)
 
 [Hanging Balance](https://play.google.com/store/apps/details?id=com.mtosch.hangingbalance)
+
+[Tumble Sort](https://play.google.com/store/apps/details?id=com.mtosch.tumblesort)
